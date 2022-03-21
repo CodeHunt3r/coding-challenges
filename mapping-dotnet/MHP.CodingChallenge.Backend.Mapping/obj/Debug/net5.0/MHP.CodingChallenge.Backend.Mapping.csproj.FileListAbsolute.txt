@@ -1,0 +1,113 @@
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\appsettings.json
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.exe
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.deps.json
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.runtimeconfig.json
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.runtimeconfig.dev.json
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.dll
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.pdb
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.dll
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.pdb
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.csproj.AssemblyReference.cache
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.AssemblyInfoInputs.cache
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.AssemblyInfo.cs
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\scopedcss\bundle\MHP.CodingChallenge.Backend.Mapping.styles.css
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\staticwebassets\MHP.CodingChallenge.Backend.Mapping.StaticWebAssets.Manifest.cache
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.RazorTargetAssemblyInfo.cache
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.csproj.CopyComplete
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.dll
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\refint\MHP.CodingChallenge.Backend.Mapping.dll
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.pdb
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.genruntimeconfig.cache
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\ref\MHP.CodingChallenge.Backend.Mapping.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\appsettings.json
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.exe
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.deps.json
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.runtimeconfig.json
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.runtimeconfig.dev.json
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\ref\MHP.CodingChallenge.Backend.Mapping.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.pdb
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.pdb
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.csproj.AssemblyReference.cache
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.AssemblyInfoInputs.cache
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.AssemblyInfo.cs
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\scopedcss\bundle\MHP.CodingChallenge.Backend.Mapping.styles.css
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\staticwebassets\MHP.CodingChallenge.Backend.Mapping.StaticWebAssets.Manifest.cache
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.RazorTargetAssemblyInfo.cache
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.csproj.CopyComplete
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\ref\MHP.CodingChallenge.Backend.Mapping.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.pdb
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.genruntimeconfig.cache
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\appsettings.json
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.exe
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.deps.json
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.runtimeconfig.json
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.runtimeconfig.dev.json
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.pdb
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.pdb
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.csproj.AssemblyReference.cache
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.AssemblyInfoInputs.cache
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.AssemblyInfo.cs
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\scopedcss\bundle\MHP.CodingChallenge.Backend.Mapping.styles.css
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\staticwebassets\MHP.CodingChallenge.Backend.Mapping.StaticWebAssets.Manifest.cache
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.RazorTargetAssemblyInfo.cache
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.csproj.CopyComplete
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\refint\MHP.CodingChallenge.Backend.Mapping.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.pdb
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.genruntimeconfig.cache
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping\obj\Debug\net5.0\ref\MHP.CodingChallenge.Backend.Mapping.dll

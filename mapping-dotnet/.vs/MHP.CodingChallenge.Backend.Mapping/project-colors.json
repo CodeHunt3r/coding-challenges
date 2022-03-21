@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c5e21d5b-eff1-4338-b979-7554b6c1119a": {
+      "ProjectGuid": "c5e21d5b-eff1-4338-b979-7554b6c1119a",
+      "DisplayName": "MHP.CodingChallenge.Backend.Mapping.Data",
+      "ColorIndex": 0
+    },
+    "8282dca3-a7f5-4485-8b9d-23a75c53fa29": {
+      "ProjectGuid": "8282dca3-a7f5-4485-8b9d-23a75c53fa29",
+      "DisplayName": "MHP.CodingChallenge.Backend.Mapping.Tests",
+      "ColorIndex": 1
+    },
+    "c2bb5229-98ba-451c-873d-b54325631273": {
+      "ProjectGuid": "c2bb5229-98ba-451c-873d-b54325631273",
+      "DisplayName": "MHP.CodingChallenge.Backend.Mapping",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "5b99cab3-f22c-4111-9546-98f3e35c34aa": {
+      "ProjectGuid": "5b99cab3-f22c-4111-9546-98f3e35c34aa",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

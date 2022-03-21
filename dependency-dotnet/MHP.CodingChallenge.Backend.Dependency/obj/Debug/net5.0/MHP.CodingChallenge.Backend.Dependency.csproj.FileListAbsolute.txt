@@ -1,0 +1,98 @@
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\appsettings.json
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.exe
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.deps.json
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.runtimeconfig.json
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.runtimeconfig.dev.json
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.dll
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.pdb
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Inquiry.dll
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Inquiry.pdb
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.csproj.AssemblyReference.cache
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.AssemblyInfoInputs.cache
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.AssemblyInfo.cs
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.csproj.CoreCompileInputs.cache
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\scopedcss\bundle\MHP.CodingChallenge.Backend.Dependency.styles.css
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\staticwebassets\MHP.CodingChallenge.Backend.Dependency.StaticWebAssets.Manifest.cache
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.RazorTargetAssemblyInfo.cache
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.csproj.CopyComplete
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.dll
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\refint\MHP.CodingChallenge.Backend.Dependency.dll
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.pdb
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.genruntimeconfig.cache
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\ref\MHP.CodingChallenge.Backend.Dependency.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\appsettings.json
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.exe
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.deps.json
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.runtimeconfig.json
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.runtimeconfig.dev.json
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\ref\MHP.CodingChallenge.Backend.Dependency.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.pdb
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Inquiry.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Inquiry.pdb
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.csproj.AssemblyReference.cache
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.AssemblyInfoInputs.cache
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.AssemblyInfo.cs
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.csproj.CoreCompileInputs.cache
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\scopedcss\bundle\MHP.CodingChallenge.Backend.Dependency.styles.css
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\staticwebassets\MHP.CodingChallenge.Backend.Dependency.StaticWebAssets.Manifest.cache
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.RazorTargetAssemblyInfo.cache
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.csproj.CopyComplete
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\ref\MHP.CodingChallenge.Backend.Dependency.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.pdb
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.genruntimeconfig.cache
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Notifications.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Notifications.pdb
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Abstract.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Abstract.pdb
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\appsettings.json
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.exe
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.deps.json
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.runtimeconfig.json
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.runtimeconfig.dev.json
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.pdb
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Abstract.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Inquiry.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Notifications.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Inquiry.pdb
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Notifications.pdb
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Abstract.pdb
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.csproj.AssemblyReference.cache
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.AssemblyInfoInputs.cache
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.AssemblyInfo.cs
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.csproj.CoreCompileInputs.cache
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\scopedcss\bundle\MHP.CodingChallenge.Backend.Dependency.styles.css
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\staticwebassets\MHP.CodingChallenge.Backend.Dependency.StaticWebAssets.Manifest.cache
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.RazorTargetAssemblyInfo.cache
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.csproj.CopyComplete
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\refint\MHP.CodingChallenge.Backend.Dependency.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.pdb
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.genruntimeconfig.cache
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency\obj\Debug\net5.0\ref\MHP.CodingChallenge.Backend.Dependency.dll

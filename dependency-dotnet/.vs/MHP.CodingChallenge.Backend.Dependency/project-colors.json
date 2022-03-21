@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d9294e3e-2d76-46e6-a73a-08b942b4a587": {
+      "ProjectGuid": "d9294e3e-2d76-46e6-a73a-08b942b4a587",
+      "DisplayName": "MHP.CodingChallenge.Backend.Dependency.Inquiry",
+      "ColorIndex": 0
+    },
+    "97e9e997-33f1-4aae-a0c8-2fa38e92bffa": {
+      "ProjectGuid": "97e9e997-33f1-4aae-a0c8-2fa38e92bffa",
+      "DisplayName": "MHP.CodingChallenge.Backend.Dependency.Test",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "17a527ba-8779-4094-8584-4dedb8f01235": {
+      "ProjectGuid": "17a527ba-8779-4094-8584-4dedb8f01235",
+      "DisplayName": "MHP.CodingChallenge.Backend.Dependency.Notifications",
+      "ColorIndex": 2
+    },
+    "3eb0148c-f094-4d4e-a62e-0f722d4eb4bf": {
+      "ProjectGuid": "3eb0148c-f094-4d4e-a62e-0f722d4eb4bf",
+      "DisplayName": "MHP.CodingChallenge.Backend.Dependency",
+      "ColorIndex": 3
+    },
+    "2f34c6a2-8247-4147-8975-42f4b2226ae9": {
+      "ProjectGuid": "2f34c6a2-8247-4147-8975-42f4b2226ae9",
+      "DisplayName": "MHP.CodingChallange.Backend.Dependency.Notifications.Abstract",
+      "ColorIndex": 4
+    },
+    "6d747377-88b2-45de-9096-7538c4232e20": {
+      "ProjectGuid": "6d747377-88b2-45de-9096-7538c4232e20",
+      "DisplayName": "MHP.CodingChallenge.Backend.Dependency.Notifications.Abstract",
+      "ColorIndex": 5
+    },
+    "18c9722f-605c-41ba-ade0-9627f10e2866": {
+      "ProjectGuid": "18c9722f-605c-41ba-ade0-9627f10e2866",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 6
+    },
+    "13a8381b-3e1b-47f2-a8bf-e7afd509a4f8": {
+      "ProjectGuid": "13a8381b-3e1b-47f2-a8bf-e7afd509a4f8",
+      "DisplayName": "MHP.CodingChallenge.Backend.Dependency.Abstract",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

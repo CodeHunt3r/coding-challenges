@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MHP.CodingChallenge.Backend.Dependency.Notifications.Abstract/1.0.0": {
+        "runtime": {
+          "MHP.CodingChallenge.Backend.Dependency.Notifications.Abstract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MHP.CodingChallenge.Backend.Dependency.Notifications.Abstract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KMLcn8+qazBZFrLjSaX55NGaksU4vz2fIdUeTBeMSuXuNe/mOwBjPuUEK6aRYVb3tBvoULywsHuDTkIP5XIrIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PHerd\\Desktop\\MHP-Coding Challenges\\dependency-dotnet\\MHP.CodingChallenge.Backend.Dependency.Notifications\\MHP.CodingChallenge.Backend.Dependency.Notifications.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PHerd\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\PHerd\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\PHerd\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\PHerd\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\PHerd\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\PHerd\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

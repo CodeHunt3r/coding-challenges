@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "TXCoXLzxCPXYZ+AukuVYF7Tezmasaxabt0f1zuEt38BOBrMeR8Z+vT2Xr+AvrJCvJTDPZ234qY3hT+hyxEiMcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PHerd\\Desktop\\MHP-Coding Challenges\\mapping-dotnet\\MHP.CodingChallenge.Backend.Mapping.Data\\MHP.CodingChallenge.Backend.Mapping.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PHerd\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\PHerd\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\PHerd\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\PHerd\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\PHerd\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\PHerd\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\PHerd\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\PHerd\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

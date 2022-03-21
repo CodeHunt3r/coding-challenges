@@ -1,0 +1,36 @@
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.deps.json
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.dll
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.pdb
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.csproj.AssemblyReference.cache
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.AssemblyInfoInputs.cache
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.AssemblyInfo.cs
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.csproj.CoreCompileInputs.cache
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.dll
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\refint\MHP.CodingChallenge.Backend.Mapping.Data.dll
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.pdb
+C:\Users\PHerd\Desktop\CodingChallengeMHP\Backend\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\ref\MHP.CodingChallenge.Backend.Mapping.Data.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.deps.json
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\bin\Debug\net5.0\ref\MHP.CodingChallenge.Backend.Mapping.Data.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.pdb
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.csproj.AssemblyReference.cache
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.AssemblyInfoInputs.cache
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.AssemblyInfo.cs
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.csproj.CoreCompileInputs.cache
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\ref\MHP.CodingChallenge.Backend.Mapping.Data.dll
+C:\Users\nilsm\Desktop\coding-Challenges-main\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.pdb
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.deps.json
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.pdb
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.csproj.AssemblyReference.cache
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.AssemblyInfoInputs.cache
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.AssemblyInfo.cs
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.csproj.CoreCompileInputs.cache
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\refint\MHP.CodingChallenge.Backend.Mapping.Data.dll
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.pdb
+C:\Users\PHerd\Desktop\MHP-Coding Challenges\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\ref\MHP.CodingChallenge.Backend.Mapping.Data.dll
